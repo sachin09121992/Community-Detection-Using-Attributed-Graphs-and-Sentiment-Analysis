@@ -1,0 +1,9 @@
+Each of the team member came up with a business problem based on the yelp data set.
+We then finalized one of them as the target question. 
+In implementing an end to end business solution for the same, the contribution of the team members is given below:
+
+1) Jitin Kumar (jkumar3) : Pre-processing the data set, extracting the attributes of users and discretize them
+2) Sachin Ahuja (sahuja3) : Extracted user reviews and perfomed sentiment analysis using doc2vec as feature builder and Naive Bayes as the classification algorithm to find overall sentiment for each user.
+3) Udit Deshmukh (udeshmu) : Created an edge list of users and their friends. Implemented the SAC-1 algorithm to find the communities using the edge list and the user attributes. 
+
+All the team members had equal contribution to the final report.
